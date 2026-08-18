@@ -87,9 +87,7 @@ RAG pipelines · knowledge graphs · LLM API integration (Anthropic, OpenAI) · 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Des-works&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="Des-works GitHub stats" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Des-works&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top languages" />
+<img src="./github-metrics.svg" alt="Des-works GitHub metrics" />
 
 <img src="https://streak-stats.demolab.com?user=Des-works&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
@@ -101,4 +99,4 @@ RAG pipelines · knowledge graphs · LLM API integration (Anthropic, OpenAI) · 
 
 **Open to interesting backend and AI engineering problems.**
 
-</div>
+</div> I'll those reading what your rules now you rules that I own the platform's architecture and delivery in as much as most of that is true I shouldn't be well writing it like that as well or is it going to pass it further I did not write which company I'm talking about yes I did twice when you sent hello everything or machine like helps a basing MTN I would help you know that the reason we're able to see that in my screenshots is because it's my personal account so you can see it you get me what other people will just say that I'm pushing to a repo that is private so which do we go with Jesus in your special because you love to blah blah blah blah blah blah blah blah blah nobody can connect give me that go with like this I see me yeah I'm saying that you put what I'm currently working on is that really necessary on let me know if it's it's if it works also I think I saw something else yeah that's just about it I just want to know if that is necessary
