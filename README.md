@@ -87,9 +87,7 @@ RAG pipelines · knowledge graphs · LLM API integration (Anthropic, OpenAI) · 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Des-works&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="Des-works GitHub stats" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Des-works&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top languages" />
+<img src="./github-metrics.svg" alt="Des-works GitHub metrics" />
 
 <img src="https://streak-stats.demolab.com?user=Des-works&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
@@ -100,5 +98,3 @@ RAG pipelines · knowledge graphs · LLM API integration (Anthropic, OpenAI) · 
 <div align="center">
 
 **Open to interesting backend and AI engineering problems.**
-
-</div>
