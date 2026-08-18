@@ -16,7 +16,7 @@
 
 I'm a full stack engineer with over five years of experience, currently serving as **chief engineer at a B2B AI SaaS company** (remote), where I own the platform's architecture and delivery end to end.
 
-My home base is the backend: Django, PostgreSQL, and the operational discipline of keeping real systems fast, tested, and reliable. But I ship the whole product when the product needs it — Next.js and TypeScript on the front, cloud infrastructure underneath, and increasingly the AI layer in between: retrieval pipelines, knowledge graphs, and LLM integrations that have to work in production, not just in demos.
+My home base is the backend: Django, PostgreSQL, and the operational discipline of keeping real systems fast, tested, and reliable. But I ship the whole product when the product needs it, with Next.js and TypeScript on the front, cloud infrastructure underneath, and increasingly the AI layer in between: retrieval pipelines, knowledge graphs, and LLM integrations that have to work in production, not just in demos.
 
 I'm also completing a Computer Science degree at the Air Force Institute of Technology, Kaduna, and currently deepening my security skills through hands-on cybersecurity training (Linux, ethical hacking, defensive tooling).
 
@@ -24,16 +24,16 @@ I'm also completing a Computer Science degree at the Air Force Institute of Tech
 
 ## 💼 What I Do
 
-- **Architect and ship backend systems end to end** — from schema design to deployed, tested, monitored services
-- **Build AI-powered product features** — retrieval pipelines, knowledge graphs, and LLM integrations that hold up in production
-- **Own production** — cloud infrastructure, migrations, billing systems, incident response, and heavy automated test coverage
-- **Deliver across the stack** — Django backends paired with Next.js/TypeScript frontends when the product needs it
+- **Architect and ship backend systems end to end**: from schema design to deployed, tested, monitored services
+- **Build AI-powered product features**: retrieval pipelines, knowledge graphs, and LLM integrations that hold up in production
+- **Own production**: cloud infrastructure, migrations, billing systems, incident response, and heavy automated test coverage
+- **Deliver across the stack**: Django backends paired with Next.js/TypeScript frontends when the product needs it
 
 ---
 
 ## 🔭 Currently Building
 
-An open-source security scanner for MCP (Model Context Protocol) servers, written in Rust — single static binary, CI-friendly, with tool-poisoning and rug-pull detection. Watch this space.
+An open-source security scanner for MCP (Model Context Protocol) servers, written in Rust: single static binary, CI-friendly, with tool-poisoning and rug-pull detection. Watch this space.
 
 ---
 
@@ -75,11 +75,11 @@ RAG pipelines · knowledge graphs · LLM API integration (Anthropic, OpenAI) · 
 
 ## 🧠 Engineering Approach
 
-- **Plan before code** — architecture and data models first; the fastest code to write is the code you don't rewrite
-- **Own it end to end** — from the first migration to the production incident at 2 AM
-- **Test like it matters** — heavy automated coverage is how a small team runs a whole platform
-- **Write it down** — systems deserve documentation a new engineer can actually follow
-- **Security is a feature** — going deeper via cybersecurity training and open-source security tooling
+- **Plan before code**: architecture and data models first; the fastest code to write is the code you don't rewrite
+- **Own it end to end**: from the first migration to the production incident at 2 AM
+- **Test like it matters**: heavy automated coverage is how a small team runs a whole platform
+- **Write it down**: systems deserve documentation a new engineer can actually follow
+- **Security is a feature**: going deeper via cybersecurity training and open-source security tooling
 
 ---
 
@@ -87,8 +87,9 @@ RAG pipelines · knowledge graphs · LLM API integration (Anthropic, OpenAI) · 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Des-works&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Des-works GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Des-works&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Des-works&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="Des-works GitHub stats" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Des-works&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com?user=Des-works&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
